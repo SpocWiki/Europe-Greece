@@ -110,8 +110,8 @@ id: Greece
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Greece//
-markerFolder: ./Greece////
+geojsonFolder: .//
+markerFolder: .////
 ```
 
 

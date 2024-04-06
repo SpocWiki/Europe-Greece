@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::38.52] 
 [name::Amphissa] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[Greece]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/United_Kingdom/City/Amphissa|Amphissa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/United_Kingdom/City/Amphissa.public|Amphissa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/United_Kingdom/City/Amphissa.internal|Amphissa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/United_Kingdom/City/Amphissa.protect|Amphissa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/United_Kingdom/City/Amphissa.private|Amphissa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/United_Kingdom/City/Amphissa.personal|Amphissa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/United_Kingdom/City/Amphissa.secret|Amphissa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/City/Amphissa|Amphissa]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/City/Amphissa.public|Amphissa.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/City/Amphissa.internal|Amphissa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/City/Amphissa.protect|Amphissa.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/City/Amphissa.private|Amphissa.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/City/Amphissa.personal|Amphissa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/City/Amphissa.secret|Amphissa.secret]] 

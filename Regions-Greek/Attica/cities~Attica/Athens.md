@@ -45,16 +45,16 @@ The longest Line: from [[Piraeus]] to the [[AIA(Athens_Airport)]]
 graph TD;
     %% Line definitions %%
     subgraph Line1_Green["Green Line (1)"]
-    class Line1_Green greenText;  
-    Kifisia --> Marousi --> Irini --> Iraklio --> NeaIonia --> Attiki-G --> Victoria --> Omonia-G --> Monastiraki-G --> Thiseio --> Petralona --> Faliro --> Piraeus
+      class Line1_Green greenText;  
+      Kifisia --> KAT --> Marousi --> Neratziotissa --> Irini --> Iraklio --> Nea_Ionia --> Pefkakia --> Perissos --> Ano_Patisia --> Aghios_Eleftherios --> Kato_Patisia --> Aghios_Nikolaos --> Attiki-G --> Victoria --> Omonia-G --> Monastiraki-G --> Thiseio --> Petralona --> Tavros --> Moschato --> Faliro --> Piraeus 
     end
     
     subgraph Line2_Red["Red Line (2)"]
-    Anthoupoli --> Sepolia --> Attiki-R --> Larissa --> Metaxourghio --> Omonia-R --> Panepistimio --> Syntagma-R --> Akropoli --> NeosKosmos --> Dafni --> AgDimitrios --> Argyroupoli --> Elliniko
+      Anthoupoli --> Sepolia --> Attiki-R --> Larissa --> Metaxourghio --> Omonia-R --> Panepistimio --> Syntagma-R --> Akropoli --> NeosKosmos --> Aghios_Ioannis --> Dafni --> Aghios_Dimitrios --> Ilioupoli --> Alimos --> Argyroupoli --> Elliniko 
     end
     
     subgraph Line3_Blue["Blue Line (3)"]
-    Airport --> Koropi --> Palania_Kantza --> Pallini --> Doukissis_Plakentias --> Halandri --> Agia_Paraskevi --> Nomismatokopio --> Holargos --> Ethniki_Amyna --> Katehaki --> Panormou --> Ampelokipi --> Megaro_Moussikis --> Evangelismos --> Syntagma-B --> Monastiraki-B --> Kerameikos --> Eleonas --> Egaleo --> Aghia_Marina
+      Airport --> Koropi --> Palania_Kantza --> Pallini --> Doukissis_Plakentias --> Halandri --> Agia_Paraskevi --> Nomismatokopio --> Holargos --> Ethniki_Amyna --> Katehaki --> Panormou --> Ampelokipi --> Megaro_Moussikis --> Evangelismos --> Syntagma-B --> Monastiraki-B --> Kerameikos --> Eleonas --> Egaleo --> Aghia_Marina
     end
     
     %% Intersection Points %%
@@ -65,8 +65,8 @@ graph TD;
 
 
     %% Custom styles for each line %%
-    class Kifisia,Marousi,Irini,Iraklio,NeaIonia,Attiki-G,Victoria,Omonia1,Monastiraki-G,Thiseio,Petralona,Faliro,Piraeus greenText;
-    class Anthoupoli,Sepolia,Attiki-R,Larissa,Metaxourghio,Omonia-R,Panepistimio,Syntagma-R,Akropoli,NeosKosmos,Dafni,AgDimitrios,Argyroupoli,Elliniko redText;
+    class Kifisia,KAT,Marousi,Neratziotissa,Irini,Iraklio,Nea_Ionia,Pefkakia,Perissos,Ano_Patisia,Aghios_Eleftherios,Kato_Patisia,Aghios_Nikolaos,Attiki-G,Victoria,Omonia-G,Monastiraki-G,Thiseio,Petralona,Tavros,Moschato,Faliro,Piraeus greenText;
+    class Anthoupoli,Sepolia,Attiki-R,Larissa,Metaxourghio,Omonia-R,Panepistimio,Syntagma-R,Akropoli,NeosKosmos,Aghios_Ioannis,Dafni,Aghios_Dimitrios,Ilioupoli,Alimos,Argyroupoli,Elliniko redText;
     class Airport,Koropi,Palania_Kantza,Pallini,Doukissis_Plakentias,Halandri,Agia_Paraskevi,Nomismatokopio,Holargos,Ethniki_Amyna,Katehaki,Panormou,Ampelokipi,Megaro_Moussikis,Evangelismos,Syntagma-B,Monastiraki-B,Kerameikos,Eleonas,Egaleo,Aghia_Marina blueText;
 
     %% Class Definitions %%

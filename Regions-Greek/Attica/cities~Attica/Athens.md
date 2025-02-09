@@ -3,9 +3,13 @@ aliases:
   - Athenas
 ---
 
+# [[Athens]] 
+
+#has_/id_/wikidata :: Q1524 
 #is_/same_as :: [[WD~Athens,1524]] 
 #is_/different_from :: [ [[../../../../../../America~North/USA/USA~Central/Ohio/counties~Ohio/Athens,Ohio/Athens.county.geojson|Athens.county]], [[../../../../../../America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Leedsand_Grenville/cities~Leedsand_Grenville/Athens,Ontario/Athens.city.geojson|Athens.city]]] 
 
+## #has_/text_of_/abstract  
 
 > **Athens** ( ATH-inz) is the capital and largest city of Greece. 
 > A major coastal urban area in the Mediterranean, Athens is also the capital of the Attica region 

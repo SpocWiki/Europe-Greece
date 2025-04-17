@@ -14,8 +14,8 @@ twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Prague,1085]]'
 - '[[_Standards/WikiData/WD~Chicago,1297]]'
 - '[[_Standards/WikiData/WD~Genoa,1449]]'
-- "[[_Standards/WikiData/WD~Buenos Aires,1486]]"
-- "[[_Standards/WikiData/WD~Mexico City,1489]]"
+- "[[_Standards/WikiData/WD~Buenos_Aires,1486]]"
+- "[[_Standards/WikiData/WD~Mexico_City,1489]]"
 - '[[_Standards/WikiData/WD~Barcelona,1492]]'
 - '[[_Standards/WikiData/WD~Havana,1563]]'
 - '[[_Standards/WikiData/WD~Kyiv,1899]]'
@@ -33,8 +33,8 @@ twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Bethlehem,5776]]'
 - "[[_Standards/WikiData/WD~Xi'an,5826]]"
 - '[[_Standards/WikiData/WD~Casablanca,7903]]'
-- "[[_Standards/WikiData/WD~Reggio Calabria,8471]]"
-- "[[_Standards/WikiData/WD~Rio de Janeiro,8678]]"
+- "[[_Standards/WikiData/WD~Reggio_Calabria,8471]]"
+- "[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]"
 - '[[_Standards/WikiData/WD~Seoul,8684]]'
 - '[[_Standards/WikiData/WD~Amsterdam,9899]]'
 - '[[_Standards/WikiData/WD~Sarajevo,11194]]'
@@ -42,8 +42,8 @@ twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Tirana,19689]]'
 - '[[_Standards/WikiData/WD~Ashgabat,23438]]'
 - '[[_Standards/WikiData/WD~Atlanta,23556]]'
-- "[[_Standards/WikiData/WD~Washington, D.C.,61]]"
-- "[[_Standards/WikiData/WD~Los Angeles,65]]"
+- "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+- "[[_Standards/WikiData/WD~Los_Angeles,65]]"
 - '[[_Standards/WikiData/WD~Boston,100]]'
 - '[[_Standards/WikiData/WD~Cali,51103]]'
 - '[[_Standards/WikiData/WD~Cluj-Napoca,100188]]'
@@ -56,12 +56,12 @@ twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Montreal,340]]'
 official_language: '[[_Standards/WikiData/WD~Greek,9129]]'
 Köppen_climate_classification:
-- "[[_Standards/WikiData/WD~Mediterranean climate,13996]]"
-- "[[_Standards/WikiData/WD~semi-arid climate,124196]]"
+- "[[_Standards/WikiData/WD~Mediterranean_climate,13996]]"
+- "[[_Standards/WikiData/WD~semi-arid_climate,124196]]"
 capital_of:
 - '[[_Standards/WikiData/WD~Greece,41]]'
-- "[[_Standards/WikiData/WD~Attica Region,758056]]"
-- "[[_Standards/WikiData/WD~Athens Municipality,1224979]]"
+- "[[_Standards/WikiData/WD~Attica_Region,758056]]"
+- "[[_Standards/WikiData/WD~Athens_Municipality,1224979]]"
 country: '[[_Standards/WikiData/WD~Greece,41]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 area: 39
@@ -110,49 +110,49 @@ Commons_gallery: Athens
 Commons_category: Athens
 located_in_on_physical_feature:
 - '[[_Standards/WikiData/WD~Attica,122443]]'
-- "[[_Standards/WikiData/WD~Attica Basin,16328430]]"
-award_received: "[[_Standards/WikiData/WD~European Capital of Culture,129372]]"
+- "[[_Standards/WikiData/WD~Attica_Basin,16328430]]"
+award_received: "[[_Standards/WikiData/WD~European_Capital_of_Culture,129372]]"
 instance_of:
 - '[[_Standards/WikiData/WD~city-state,133442]]'
 - '[[_Standards/WikiData/WD~metropolis,200250]]'
-- "[[_Standards/WikiData/WD~big city,1549591]]"
-- "[[_Standards/WikiData/WD~Free city,5500203]]"
-- "[[_Standards/WikiData/WD~largest city,51929311]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~Eastern European Time,190252]]"
+- "[[_Standards/WikiData/WD~big_city,1549591]]"
+- "[[_Standards/WikiData/WD~Free_city,5500203]]"
+- "[[_Standards/WikiData/WD~largest_city,51929311]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~Eastern_European_Time,190252]]"
 located_in_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Achaea,204772]]'
-- "[[_Standards/WikiData/WD~Athens Municipality,1224979]]"
+- "[[_Standards/WikiData/WD~Athens_Municipality,1224979]]"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Zografou,218375]]'
-- "[[_Standards/WikiData/WD~Nea Filadelfeia,1021592]]"
-patron_saint: "[[_Standards/WikiData/WD~Dionysius the Areopagite,310686]]"
+- "[[_Standards/WikiData/WD~Nea_Filadelfeia,1021592]]"
+patron_saint: "[[_Standards/WikiData/WD~Dionysius_the_Areopagite,310686]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys Realenzyklopädie der klassischen Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Bible Encyclopedia of Archimandrite Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Church Encyclopedia,9253865]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Orthodox Theological Encyclopedia,19211082]]"
-- "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
-- "[[_Standards/WikiData/WD~Meyer’s Universum, Erster Band,126374795]]"
-follows: "[[_Standards/WikiData/WD~Classical Athens,844930]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Athens,1064853]]"
-owner_of: "[[_Standards/WikiData/WD~Panathinaikos F.C. New Stadium,1113002]]"
-member_of: "[[_Standards/WikiData/WD~League of Historical Cities,9383972]]"
-head_of_government: "[[_Standards/WikiData/WD~Kostas Bakoyannis,14928588]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Church_Encyclopedia,9253865]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Erster_Band,126374795]]"
+follows: "[[_Standards/WikiData/WD~Classical_Athens,844930]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Athens,1064853]]"
+owner_of: "[[_Standards/WikiData/WD~Panathinaikos_F.C._New_Stadium,1113002]]"
+member_of: "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
+head_of_government: "[[_Standards/WikiData/WD~Kostas_Bakoyannis,14928588]]"
 different_from: '[[_Standards/WikiData/WD~Ateny,16263339]]'
 category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q32030186,32030186]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Athens,42351397]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Athens,48741259]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Athens,106020357]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Athens,48741259]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Athens,106020357]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q122639404,122639404]]'
 coordinate_location: "Point(23.728055555 37.984166666)"
 pronunciation_audio:

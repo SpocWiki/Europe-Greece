@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Athenas
 has_id_wikidata: Q1524

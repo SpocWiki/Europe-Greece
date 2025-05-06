@@ -4,7 +4,7 @@
 #### Blue Line 3 [[../../Athens]]  
 
 The longest Line: 
-27 Stations on 47.3km from West to East from [[Dimotiko Theatro]]  to the [[AIA(Athens_Airport)]] since 2000-01-28. 
+27 Stations on 47.3km from West to East from [[Dimotiko Theatro]]  to the [[../AIA(Athens_Airport)]] since 2000-01-28. 
 
 
 ## #has_/text_of_/abstract 

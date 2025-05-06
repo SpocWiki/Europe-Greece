@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Ionioi_Nisoi
+- Ionian Islands
 
 Languages:
 - de

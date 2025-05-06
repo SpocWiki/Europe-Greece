@@ -14,6 +14,9 @@ tags:
 - geo/Country/Region
 aliases:
 - Stereá_Elláda
+- Stereá Elláda
+- Greece,Central
+- Central Greece
 
 Languages:
 - de

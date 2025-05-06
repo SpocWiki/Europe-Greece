@@ -15,7 +15,7 @@ tags:
 aliases:
 - Voreio_Aigaio
 - South-Aegean
-
+- South Aegean
 
 Languages:
 - de

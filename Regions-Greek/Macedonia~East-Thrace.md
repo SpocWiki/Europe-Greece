@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Anatoliki_Makedonia_kai_Thraki
+- Eastern Macedonia and Thrace
 
 Languages:
 - de

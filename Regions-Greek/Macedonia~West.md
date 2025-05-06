@@ -14,6 +14,10 @@ tags:
 - geo/Country/Region
 aliases:
 - Dytiki_Makedonia
+- Dytiki Makedonia
+- Macedonia,West
+- West Macedonia
+- Western Macedonia
 
 Languages:
 - de

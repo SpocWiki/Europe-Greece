@@ -14,6 +14,10 @@ tags:
 - geo/Country/Region
 aliases:
 - Dytiki_Ellada
+- Dytiki Ellada
+- Greece,West
+- West Greece
+- Western Greece
 
 Languages:
 - de

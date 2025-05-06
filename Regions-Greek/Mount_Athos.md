@@ -14,6 +14,9 @@ tags:
 - geo/Country/Region
 aliases:
 - Ayion_Oros
+- Mount_Athos
+- Mount Athos
+- 
 
 Languages:
 - de

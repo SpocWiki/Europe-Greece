@@ -14,6 +14,9 @@ tags:
 - geo/Country/Region
 aliases:
 - Kentriki_Makedonia
+- Kentriki Makedonia
+- Macedonia,Central
+- Central Macedonia
 
 Languages:
 - de

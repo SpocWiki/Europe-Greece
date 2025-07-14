@@ -256,14 +256,18 @@ official_website: "https://www.cityofathens.gr"
 
 [[Athens_Metro]]
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens|Athens]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens.public|Athens.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens.internal|Athens.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens.protect|Athens.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens.private|Athens.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens.personal|Athens.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens.secret|Athens.secret]] 
 
+### [Athens.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~AtticaAthens.public.md) 
 
+### [Athens.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~AtticaAthens.internal.md) 
+
+### [Athens.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~AtticaAthens.protect.md) 
+
+### [Athens.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~AtticaAthens.private.md) 
+
+### [Athens.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~AtticaAthens.personal.md) 
+
+### [Athens.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~AtticaAthens.secret.md)
 

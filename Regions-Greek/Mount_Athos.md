@@ -43,11 +43,16 @@ markerFolder: ./Ayion_Oros/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Ayion_Oros|Ayion_Oros]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Ayion_Oros.public|Ayion_Oros.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Ayion_Oros.internal|Ayion_Oros.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Ayion_Oros.protect|Ayion_Oros.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Ayion_Oros.private|Ayion_Oros.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Ayion_Oros.personal|Ayion_Oros.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Ayion_Oros.secret|Ayion_Oros.secret]] 
+
+### [Mount_Athos.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMount_Athos.public.md) 
+
+### [Mount_Athos.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMount_Athos.internal.md) 
+
+### [Mount_Athos.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMount_Athos.protect.md) 
+
+### [Mount_Athos.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMount_Athos.private.md) 
+
+### [Mount_Athos.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMount_Athos.personal.md) 
+
+### [Mount_Athos.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMount_Athos.secret.md)
 

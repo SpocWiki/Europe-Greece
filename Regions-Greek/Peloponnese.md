@@ -32,3 +32,20 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Peloponnese.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekPeloponnese.public.md) 
+
+### [Peloponnese.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekPeloponnese.internal.md) 
+
+### [Peloponnese.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekPeloponnese.protect.md) 
+
+### [Peloponnese.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekPeloponnese.private.md) 
+
+### [Peloponnese.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekPeloponnese.personal.md) 
+
+### [Peloponnese.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekPeloponnese.secret.md)
+

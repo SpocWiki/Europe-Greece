@@ -40,11 +40,16 @@ markerFolder: ./Thessalia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Thessalia|Thessalia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Thessalia.public|Thessalia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Thessalia.internal|Thessalia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Thessalia.protect|Thessalia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Thessalia.private|Thessalia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Thessalia.personal|Thessalia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Thessalia.secret|Thessalia.secret]] 
+
+### [Thessaly.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekThessaly.public.md) 
+
+### [Thessaly.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekThessaly.internal.md) 
+
+### [Thessaly.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekThessaly.protect.md) 
+
+### [Thessaly.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekThessaly.private.md) 
+
+### [Thessaly.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekThessaly.personal.md) 
+
+### [Thessaly.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekThessaly.secret.md)
 

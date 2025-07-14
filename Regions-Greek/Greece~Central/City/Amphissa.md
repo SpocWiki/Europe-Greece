@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/City/Amphissa|Amphissa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/City/Amphissa.public|Amphissa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/City/Amphissa.internal|Amphissa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/City/Amphissa.protect|Amphissa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/City/Amphissa.private|Amphissa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/City/Amphissa.personal|Amphissa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/City/Amphissa.secret|Amphissa.secret]] 
+
+### [Amphissa.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Greece~Central\CityAmphissa.public.md) 
+
+### [Amphissa.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Greece~Central\CityAmphissa.internal.md) 
+
+### [Amphissa.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Greece~Central\CityAmphissa.protect.md) 
+
+### [Amphissa.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Greece~Central\CityAmphissa.private.md) 
+
+### [Amphissa.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Greece~Central\CityAmphissa.personal.md) 
+
+### [Amphissa.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Greece~Central\CityAmphissa.secret.md)
+

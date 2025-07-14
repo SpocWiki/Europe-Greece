@@ -42,11 +42,16 @@ markerFolder: ./Voreio_Aigaio/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Voreio_Aigaio|Voreio_Aigaio]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Voreio_Aigaio.public|Voreio_Aigaio.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Voreio_Aigaio.internal|Voreio_Aigaio.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Voreio_Aigaio.protect|Voreio_Aigaio.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Voreio_Aigaio.private|Voreio_Aigaio.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Voreio_Aigaio.personal|Voreio_Aigaio.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Voreio_Aigaio.secret|Voreio_Aigaio.secret]] 
+
+### [Aegean~South.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekAegean~South.public.md) 
+
+### [Aegean~South.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekAegean~South.internal.md) 
+
+### [Aegean~South.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekAegean~South.protect.md) 
+
+### [Aegean~South.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekAegean~South.private.md) 
+
+### [Aegean~South.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekAegean~South.personal.md) 
+
+### [Aegean~South.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekAegean~South.secret.md)
 

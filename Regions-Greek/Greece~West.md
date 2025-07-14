@@ -44,11 +44,16 @@ markerFolder: ./Dytiki_Ellada/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Ellada|Dytiki_Ellada]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Ellada.public|Dytiki_Ellada.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Ellada.internal|Dytiki_Ellada.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Ellada.protect|Dytiki_Ellada.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Ellada.private|Dytiki_Ellada.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Ellada.personal|Dytiki_Ellada.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Ellada.secret|Dytiki_Ellada.secret]] 
+
+### [Greece~West.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~West.public.md) 
+
+### [Greece~West.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~West.internal.md) 
+
+### [Greece~West.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~West.protect.md) 
+
+### [Greece~West.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~West.private.md) 
+
+### [Greece~West.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~West.personal.md) 
+
+### [Greece~West.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~West.secret.md)
 

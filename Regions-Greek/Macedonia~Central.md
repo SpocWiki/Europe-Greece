@@ -43,11 +43,16 @@ markerFolder: ./Kentriki_Makedonia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Kentriki_Makedonia|Kentriki_Makedonia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Kentriki_Makedonia.public|Kentriki_Makedonia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Kentriki_Makedonia.internal|Kentriki_Makedonia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Kentriki_Makedonia.protect|Kentriki_Makedonia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Kentriki_Makedonia.private|Kentriki_Makedonia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Kentriki_Makedonia.personal|Kentriki_Makedonia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Kentriki_Makedonia.secret|Kentriki_Makedonia.secret]] 
+
+### [Macedonia~Central.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~Central.public.md) 
+
+### [Macedonia~Central.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~Central.internal.md) 
+
+### [Macedonia~Central.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~Central.protect.md) 
+
+### [Macedonia~Central.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~Central.private.md) 
+
+### [Macedonia~Central.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~Central.personal.md) 
+
+### [Macedonia~Central.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~Central.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Kriti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Kriti|Kriti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Kriti.public|Kriti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Kriti.internal|Kriti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Kriti.protect|Kriti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Kriti.private|Kriti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Kriti.personal|Kriti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Kriti.secret|Kriti.secret]] 
+
+### [Crete.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekCrete.public.md) 
+
+### [Crete.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekCrete.internal.md) 
+
+### [Crete.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekCrete.protect.md) 
+
+### [Crete.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekCrete.private.md) 
+
+### [Crete.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekCrete.personal.md) 
+
+### [Crete.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekCrete.secret.md)
 

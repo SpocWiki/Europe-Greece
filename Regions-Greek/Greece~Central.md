@@ -43,11 +43,16 @@ markerFolder: ./Stereá_Elláda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Stereá_Elláda|Stereá_Elláda]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Stereá_Elláda.public|Stereá_Elláda.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Stereá_Elláda.internal|Stereá_Elláda.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Stereá_Elláda.protect|Stereá_Elláda.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Stereá_Elláda.private|Stereá_Elláda.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Stereá_Elláda.personal|Stereá_Elláda.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Stereá_Elláda.secret|Stereá_Elláda.secret]] 
+
+### [Greece~Central.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~Central.public.md) 
+
+### [Greece~Central.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~Central.internal.md) 
+
+### [Greece~Central.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~Central.protect.md) 
+
+### [Greece~Central.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~Central.private.md) 
+
+### [Greece~Central.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~Central.personal.md) 
+
+### [Greece~Central.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~Central.secret.md)
 

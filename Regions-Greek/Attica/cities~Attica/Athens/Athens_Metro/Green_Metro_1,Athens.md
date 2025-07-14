@@ -19,3 +19,20 @@ The oldest Line, created 1869-02-27, right after the London Metro.
 > [Wikipedia](https://en.wikipedia.org/wiki/Line%201%20(Athens%20Metro))
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Green_Metro_1,Athens.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroGreen_Metro_1,Athens.public.md) 
+
+### [Green_Metro_1,Athens.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroGreen_Metro_1,Athens.internal.md) 
+
+### [Green_Metro_1,Athens.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroGreen_Metro_1,Athens.protect.md) 
+
+### [Green_Metro_1,Athens.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroGreen_Metro_1,Athens.private.md) 
+
+### [Green_Metro_1,Athens.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroGreen_Metro_1,Athens.personal.md) 
+
+### [Green_Metro_1,Athens.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroGreen_Metro_1,Athens.secret.md)
+

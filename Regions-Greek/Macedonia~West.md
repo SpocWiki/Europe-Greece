@@ -44,11 +44,16 @@ markerFolder: ./Dytiki_Makedonia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Makedonia|Dytiki_Makedonia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Makedonia.public|Dytiki_Makedonia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Makedonia.internal|Dytiki_Makedonia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Makedonia.protect|Dytiki_Makedonia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Makedonia.private|Dytiki_Makedonia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Makedonia.personal|Dytiki_Makedonia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Greece/Counties/Dytiki_Makedonia.secret|Dytiki_Makedonia.secret]] 
+
+### [Macedonia~West.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~West.public.md) 
+
+### [Macedonia~West.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~West.internal.md) 
+
+### [Macedonia~West.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~West.protect.md) 
+
+### [Macedonia~West.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~West.private.md) 
+
+### [Macedonia~West.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~West.personal.md) 
+
+### [Macedonia~West.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~West.secret.md)
 

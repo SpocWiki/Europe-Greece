@@ -131,12 +131,17 @@ Capital :: [[Athenas]]
 [has_place_latitude::38.6175] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~South/Greece|Greece]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~South/Greece.public|Greece.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~South/Greece.internal|Greece.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~South/Greece.protect|Greece.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~South/Greece.private|Greece.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~South/Greece.personal|Greece.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~South/Greece.secret|Greece.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\GreeceReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\GreeceReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\GreeceReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\GreeceReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\GreeceReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\GreeceReadMe.secret.md)
+

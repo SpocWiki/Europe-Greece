@@ -16,3 +16,20 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Athens%20International%20Airport) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [AIA(Athens_Airport).public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\AthensAIA(Athens_Airport).public.md) 
+
+### [AIA(Athens_Airport).internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\AthensAIA(Athens_Airport).internal.md) 
+
+### [AIA(Athens_Airport).protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\AthensAIA(Athens_Airport).protect.md) 
+
+### [AIA(Athens_Airport).private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\AthensAIA(Athens_Airport).private.md) 
+
+### [AIA(Athens_Airport).personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\AthensAIA(Athens_Airport).personal.md) 
+
+### [AIA(Athens_Airport).secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\AthensAIA(Athens_Airport).secret.md)
+

@@ -37,3 +37,20 @@ Most central and nice Place in Athens.
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Monastiraki.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroMonastiraki.public.md) 
+
+### [Monastiraki.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroMonastiraki.internal.md) 
+
+### [Monastiraki.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroMonastiraki.protect.md) 
+
+### [Monastiraki.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroMonastiraki.private.md) 
+
+### [Monastiraki.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroMonastiraki.personal.md) 
+
+### [Monastiraki.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroMonastiraki.secret.md)
+

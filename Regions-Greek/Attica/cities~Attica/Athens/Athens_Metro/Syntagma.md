@@ -23,3 +23,20 @@ Close to the Parliament
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Syntagma.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroSyntagma.public.md) 
+
+### [Syntagma.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroSyntagma.internal.md) 
+
+### [Syntagma.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroSyntagma.protect.md) 
+
+### [Syntagma.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroSyntagma.private.md) 
+
+### [Syntagma.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroSyntagma.personal.md) 
+
+### [Syntagma.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroSyntagma.secret.md)
+

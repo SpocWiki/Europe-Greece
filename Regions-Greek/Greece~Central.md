@@ -44,15 +44,17 @@ markerFolder: ./Stereá_Elláda/
 
 ## Confidential Links & Embeds: 
 
-### [Greece~Central.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~Central.public.md) 
+### [Greece~Central](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Greece~Central.md) 
 
-### [Greece~Central.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~Central.internal.md) 
+### [Greece~Central.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Greece~Central.public.md) 
 
-### [Greece~Central.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~Central.protect.md) 
+### [Greece~Central.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Greece~Central.internal.md) 
 
-### [Greece~Central.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~Central.private.md) 
+### [Greece~Central.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Greece~Central.protect.md) 
 
-### [Greece~Central.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~Central.personal.md) 
+### [Greece~Central.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Greece~Central.private.md) 
 
-### [Greece~Central.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~Central.secret.md)
+### [Greece~Central.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Greece~Central.personal.md) 
+
+### [Greece~Central.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Greece~Central.secret.md)
 

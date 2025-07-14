@@ -42,15 +42,17 @@ markerFolder: ./Notio_Aigaio/
 
 ## Confidential Links & Embeds: 
 
-### [Aegean~North.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekAegean~North.public.md) 
+### [Aegean~North](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Aegean~North.md) 
 
-### [Aegean~North.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekAegean~North.internal.md) 
+### [Aegean~North.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Aegean~North.public.md) 
 
-### [Aegean~North.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekAegean~North.protect.md) 
+### [Aegean~North.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Aegean~North.internal.md) 
 
-### [Aegean~North.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekAegean~North.private.md) 
+### [Aegean~North.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Aegean~North.protect.md) 
 
-### [Aegean~North.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekAegean~North.personal.md) 
+### [Aegean~North.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Aegean~North.private.md) 
 
-### [Aegean~North.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekAegean~North.secret.md)
+### [Aegean~North.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Aegean~North.personal.md) 
+
+### [Aegean~North.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Aegean~North.secret.md)
 

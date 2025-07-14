@@ -15,21 +15,19 @@ Run-down attempt for an economic Center. Very much traffic.
 > [Wikipedia](https://en.wikipedia.org/wiki/Omonia%20metro%20station)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Omonoia_Station.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroOmonoia_Station.public.md) 
+### [Omonoia_Station](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Omonoia_Station.md) 
 
-### [Omonoia_Station.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroOmonoia_Station.internal.md) 
+### [Omonoia_Station.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Omonoia_Station.public.md) 
 
-### [Omonoia_Station.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroOmonoia_Station.protect.md) 
+### [Omonoia_Station.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Omonoia_Station.internal.md) 
 
-### [Omonoia_Station.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroOmonoia_Station.private.md) 
+### [Omonoia_Station.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Omonoia_Station.protect.md) 
 
-### [Omonoia_Station.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroOmonoia_Station.personal.md) 
+### [Omonoia_Station.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Omonoia_Station.private.md) 
 
-### [Omonoia_Station.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroOmonoia_Station.secret.md)
+### [Omonoia_Station.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Omonoia_Station.personal.md) 
+
+### [Omonoia_Station.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Omonoia_Station.secret.md)
 

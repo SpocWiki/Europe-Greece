@@ -41,15 +41,17 @@ markerFolder: ./Peloponnisos/
 
 ## Confidential Links & Embeds: 
 
-### [Peloponnisos.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekPeloponnisos.public.md) 
+### [Peloponnisos](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnisos.md) 
 
-### [Peloponnisos.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekPeloponnisos.internal.md) 
+### [Peloponnisos.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnisos.public.md) 
 
-### [Peloponnisos.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekPeloponnisos.protect.md) 
+### [Peloponnisos.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnisos.internal.md) 
 
-### [Peloponnisos.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekPeloponnisos.private.md) 
+### [Peloponnisos.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnisos.protect.md) 
 
-### [Peloponnisos.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekPeloponnisos.personal.md) 
+### [Peloponnisos.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnisos.private.md) 
 
-### [Peloponnisos.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekPeloponnisos.secret.md)
+### [Peloponnisos.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnisos.personal.md) 
+
+### [Peloponnisos.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnisos.secret.md)
 

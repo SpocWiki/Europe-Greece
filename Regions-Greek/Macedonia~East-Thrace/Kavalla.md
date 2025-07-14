@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kavalla.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Macedonia~East-ThraceKavalla.public.md) 
+### [Kavalla](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.md) 
 
-### [Kavalla.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Macedonia~East-ThraceKavalla.internal.md) 
+### [Kavalla.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.public.md) 
 
-### [Kavalla.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Macedonia~East-ThraceKavalla.protect.md) 
+### [Kavalla.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.internal.md) 
 
-### [Kavalla.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Macedonia~East-ThraceKavalla.private.md) 
+### [Kavalla.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.protect.md) 
 
-### [Kavalla.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Macedonia~East-ThraceKavalla.personal.md) 
+### [Kavalla.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.private.md) 
 
-### [Kavalla.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Macedonia~East-ThraceKavalla.secret.md)
+### [Kavalla.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.personal.md) 
+
+### [Kavalla.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.secret.md)
 

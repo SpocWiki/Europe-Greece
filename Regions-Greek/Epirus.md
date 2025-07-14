@@ -41,15 +41,17 @@ markerFolder: ./Ipeiros/
 
 ## Confidential Links & Embeds: 
 
-### [Epirus.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekEpirus.public.md) 
+### [Epirus](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Epirus.md) 
 
-### [Epirus.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekEpirus.internal.md) 
+### [Epirus.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Epirus.public.md) 
 
-### [Epirus.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekEpirus.protect.md) 
+### [Epirus.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Epirus.internal.md) 
 
-### [Epirus.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekEpirus.private.md) 
+### [Epirus.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Epirus.protect.md) 
 
-### [Epirus.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekEpirus.personal.md) 
+### [Epirus.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Epirus.private.md) 
 
-### [Epirus.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekEpirus.secret.md)
+### [Epirus.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Epirus.personal.md) 
+
+### [Epirus.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Epirus.secret.md)
 

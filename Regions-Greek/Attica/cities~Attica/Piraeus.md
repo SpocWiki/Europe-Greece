@@ -10,20 +10,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Piraeus)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Piraeus.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~AtticaPiraeus.public.md) 
+### [Piraeus](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Piraeus.md) 
 
-### [Piraeus.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~AtticaPiraeus.internal.md) 
+### [Piraeus.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Piraeus.public.md) 
 
-### [Piraeus.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~AtticaPiraeus.protect.md) 
+### [Piraeus.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Piraeus.internal.md) 
 
-### [Piraeus.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~AtticaPiraeus.private.md) 
+### [Piraeus.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Piraeus.protect.md) 
 
-### [Piraeus.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~AtticaPiraeus.personal.md) 
+### [Piraeus.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Piraeus.private.md) 
 
-### [Piraeus.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~AtticaPiraeus.secret.md)
+### [Piraeus.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Piraeus.personal.md) 
+
+### [Piraeus.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Piraeus.secret.md)
 

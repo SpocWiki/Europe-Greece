@@ -45,15 +45,17 @@ markerFolder: ./Dytiki_Ellada/
 
 ## Confidential Links & Embeds: 
 
-### [Greece~West.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~West.public.md) 
+### [Greece~West](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Greece~West.md) 
 
-### [Greece~West.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~West.internal.md) 
+### [Greece~West.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Greece~West.public.md) 
 
-### [Greece~West.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~West.protect.md) 
+### [Greece~West.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Greece~West.internal.md) 
 
-### [Greece~West.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~West.private.md) 
+### [Greece~West.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Greece~West.protect.md) 
 
-### [Greece~West.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~West.personal.md) 
+### [Greece~West.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Greece~West.private.md) 
 
-### [Greece~West.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekGreece~West.secret.md)
+### [Greece~West.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Greece~West.personal.md) 
+
+### [Greece~West.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Greece~West.secret.md)
 

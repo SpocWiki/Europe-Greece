@@ -42,15 +42,17 @@ markerFolder: ./Anatoliki_Makedonia_kai_Thraki/
 
 ## Confidential Links & Embeds: 
 
-### [Macedonia~East-Thrace.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~East-Thrace.public.md) 
+### [Macedonia~East-Thrace](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.md) 
 
-### [Macedonia~East-Thrace.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~East-Thrace.internal.md) 
+### [Macedonia~East-Thrace.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.public.md) 
 
-### [Macedonia~East-Thrace.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~East-Thrace.protect.md) 
+### [Macedonia~East-Thrace.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.internal.md) 
 
-### [Macedonia~East-Thrace.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~East-Thrace.private.md) 
+### [Macedonia~East-Thrace.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.protect.md) 
 
-### [Macedonia~East-Thrace.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~East-Thrace.personal.md) 
+### [Macedonia~East-Thrace.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.private.md) 
 
-### [Macedonia~East-Thrace.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekMacedonia~East-Thrace.secret.md)
+### [Macedonia~East-Thrace.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.personal.md) 
+
+### [Macedonia~East-Thrace.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.secret.md)
 

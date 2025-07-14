@@ -32,20 +32,19 @@ The longest Line:
 > [Wikipedia](https://en.wikipedia.org/wiki/Line%203%20(Athens%20Metro))
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Blue_Metro_3,Athens.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroBlue_Metro_3,Athens.public.md) 
+### [Blue_Metro_3,Athens](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.md) 
 
-### [Blue_Metro_3,Athens.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroBlue_Metro_3,Athens.internal.md) 
+### [Blue_Metro_3,Athens.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.public.md) 
 
-### [Blue_Metro_3,Athens.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroBlue_Metro_3,Athens.protect.md) 
+### [Blue_Metro_3,Athens.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.internal.md) 
 
-### [Blue_Metro_3,Athens.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroBlue_Metro_3,Athens.private.md) 
+### [Blue_Metro_3,Athens.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.protect.md) 
 
-### [Blue_Metro_3,Athens.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroBlue_Metro_3,Athens.personal.md) 
+### [Blue_Metro_3,Athens.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.private.md) 
 
-### [Blue_Metro_3,Athens.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-Greek\Attica\cities~Attica\Athens\Athens_MetroBlue_Metro_3,Athens.secret.md)
+### [Blue_Metro_3,Athens.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.personal.md) 
+
+### [Blue_Metro_3,Athens.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.secret.md)
 

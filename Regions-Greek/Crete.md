@@ -41,15 +41,17 @@ markerFolder: ./Kriti/
 
 ## Confidential Links & Embeds: 
 
-### [Crete.public](/_public/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekCrete.public.md) 
+### [Crete](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Crete.md) 
 
-### [Crete.internal](/_internal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekCrete.internal.md) 
+### [Crete.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Crete.public.md) 
 
-### [Crete.protect](/_protect/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekCrete.protect.md) 
+### [Crete.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Crete.internal.md) 
 
-### [Crete.private](/_private/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekCrete.private.md) 
+### [Crete.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Crete.protect.md) 
 
-### [Crete.personal](/_personal/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekCrete.personal.md) 
+### [Crete.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Crete.private.md) 
 
-### [Crete.secret](/_secret/\Earth\Continent\Europe\Europe~South\Greece\Regions-GreekCrete.secret.md)
+### [Crete.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Crete.personal.md) 
+
+### [Crete.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Crete.secret.md)
 

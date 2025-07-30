@@ -195,7 +195,7 @@ official_website: "https://www.cityofathens.gr"
 # [[Athens]] 
 
 #is_/same_as :: [[WD~Athens,1524]] 
-#is_/different_from :: [ [[../../../../../../America~North/USA/USA~Central/Ohio/counties~Ohio/Athens,Ohio/Athens.county.geojson|Athens.county]], [[../../../../../../America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Leedsand_Grenville/cities~Leedsand_Grenville/Athens,Ontario/Athens.city.geojson|Athens.city]]] 
+#is_/different_from :: [ [[../../../../../../America~North/USA/USA~Central/Ohio/counties~Ohio/Athens,Ohio/Athens.county.geojson|Athens.county]], [[../../../../../../America~North/Canada/provinces~Canada/Ontario/counties~Ontario/Leedsand_Grenville/cities~Leedsand_Grenville/Athens,Ontario/Athens.city.geojson|Athens.city]]]  
 
 ## #has_/text_of_/abstract  
 

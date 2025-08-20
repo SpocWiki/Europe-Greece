@@ -1,33 +1,32 @@
 ---
-location: [ 40.7 , 22.8 ] 
+location:
+  - 40.7
+  - 22.8
 type: geo-Region
 title: Kentriki_Makedonia
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Kentriki_Makedonia
-- Kentriki Makedonia
-- Macedonia,Central
-- Central Macedonia
-
+  - Kentriki_Makedonia
+  - Kentriki Makedonia
+  - Macedonia,Central
+  - Central Macedonia
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Kentriki_Makedonia

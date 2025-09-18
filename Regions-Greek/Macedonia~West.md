@@ -35,7 +35,7 @@ expiryDate:
 ```leaflet
 id: Dytiki_Makedonia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Dytiki_Makedonia/
 markerFolder: ./Dytiki_Makedonia/

@@ -35,7 +35,7 @@ expiryDate:
 ```leaflet
 id: Dytiki_Ellada
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Dytiki_Ellada/
 markerFolder: ./Dytiki_Ellada/

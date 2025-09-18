@@ -33,7 +33,7 @@ expiryDate:
 ```leaflet
 id: Notio_Aigaio
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Notio_Aigaio/
 markerFolder: ./Notio_Aigaio/

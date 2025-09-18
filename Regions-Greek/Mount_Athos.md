@@ -34,7 +34,7 @@ expiryDate:
 ```leaflet
 id: Ayion_Oros
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ayion_Oros/
 markerFolder: ./Ayion_Oros/

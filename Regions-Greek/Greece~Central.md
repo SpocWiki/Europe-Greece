@@ -34,7 +34,7 @@ expiryDate:
 ```leaflet
 id: Stereá_Elláda
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Stereá_Elláda/
 markerFolder: ./Stereá_Elláda/

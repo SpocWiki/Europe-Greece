@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Peloponnisos
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Peloponnisos/
 markerFolder: ./Peloponnisos/

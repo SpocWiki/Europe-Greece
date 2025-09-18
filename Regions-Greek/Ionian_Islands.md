@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Ionioi_Nisoi
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ionioi_Nisoi/
 markerFolder: ./Ionioi_Nisoi/

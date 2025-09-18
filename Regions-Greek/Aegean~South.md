@@ -33,7 +33,7 @@ expiryDate:
 ```leaflet
 id: Voreio_Aigaio
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Voreio_Aigaio/
 markerFolder: ./Voreio_Aigaio/

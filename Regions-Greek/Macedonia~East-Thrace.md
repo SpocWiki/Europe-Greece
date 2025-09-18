@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Anatoliki_Makedonia_kai_Thraki
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Anatoliki_Makedonia_kai_Thraki/
 markerFolder: ./Anatoliki_Makedonia_kai_Thraki/

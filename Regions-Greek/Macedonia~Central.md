@@ -34,7 +34,7 @@ expiryDate:
 ```leaflet
 id: Kentriki_Makedonia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kentriki_Makedonia/
 markerFolder: ./Kentriki_Makedonia/

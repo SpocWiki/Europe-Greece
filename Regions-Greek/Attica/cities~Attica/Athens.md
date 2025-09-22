@@ -170,7 +170,7 @@ demonym:
 - Athénienne
 - atenian
 IPA_transcription: aˈθina
-inception: "-7000-01-01T00:00:00Z"
+inception: "-7000-06"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ath%C3%A9ny-20-%C4%8Dervna-2007.ogg"
 nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Athens%20-%20Kifissias%20Avenue%20-%2020080729a.jpg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Athens%20Greece%20banner%20Acropolis.jpg"

@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Ayion_Oros
+  - Mount_Athos
+  - Mount Athos
+  - Ayion Oros
+has_id_wikidata: Q130321
 location:
   - 40.3
   - 24.2
@@ -12,11 +18,6 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Ayion_Oros
-  - Mount_Athos
-  - Mount Athos
-  - 
 Languages:
   - de
 cssclasses:
@@ -29,16 +30,35 @@ publishDate:
 expiryDate:
 ---
 
-# Ayion_Oros
+# [[Mount_Athos]]  
+
+## #has_/map 
 
 ```leaflet
 id: Ayion_Oros
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Ayion_Oros/
-markerFolder: ./Ayion_Oros/
+geojsonFolder: ./Mount_Athos/
+markerFolder: ./Mount_Athos/
+defaultZoom: 9
+coordinates: [[Mount_Athos]] 
+markerFile: [[Mount_Athos]] 
 ```
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Mount_Athos,130321|WD~Mount_Athos,130321]] 
+
+## #has_/text_of_/abstract 
+
+> Mount Athos is a mountain on the Athos peninsula in northeastern Greece 
+> directly on the Aegean Sea. It is an important center of Eastern Orthodox monasticism. 
+>
+> The mountain and most of the Athos peninsula are governed as an autonomous region in Greece by the monastic community of Mount Athos, which is ecclesiastically under the direct jurisdiction of the Ecumenical Patriarch of Constantinople. The remainder of the peninsula forms part of the Aristotelis municipality. By Greek law and by religious tradition, women are prohibited from entering the area governed by the monastic community.
+>
+> Mount Athos has been inhabited since ancient times and is known for its long Christian presence and historical monastic traditions, which date back to at least 800 AD during the Byzantine era. Because of its long history of religious importance, the well-preserved agrarian architecture within the monasteries, and the preservation of the flora and fauna around the mountain, the monastic community of Mount Athos was added to the UNESCO World Heritage List in 1988.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Mount%20Athos) 
+
 
 
 ## Confidential Links & Embeds: 

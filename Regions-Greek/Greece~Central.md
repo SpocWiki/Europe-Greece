@@ -29,15 +29,19 @@ publishDate:
 expiryDate:
 ---
 
-# Stereá_Elláda
+# [[Greece~Central]]
+
+## #has_/text_of_/abstract 
 
 ```leaflet
-id: Stereá_Elláda
+id: Greece~Central
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Stereá_Elláda/
-markerFolder: ./Stereá_Elláda/
+geojsonFolder: ./Greece~Central//
+markerFolder: ./Greece~Central/
+coordinates: [[Greece~Central]] 
+markerFile: [[Greece~Central]] 
 ```
 
 

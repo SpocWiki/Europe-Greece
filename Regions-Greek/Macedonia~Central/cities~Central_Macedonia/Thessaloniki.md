@@ -2,6 +2,8 @@
 aliases:
   - Θεσσαλονίκη
 has_id_wikidata: Q17151
+location: [ 40.640277777, 22.935555555]
+coordinate_location: Point(22.935555555 40.640277777)
 twinned_administrative_body:
   - "[[_Standards/WikiData/WD~Constanța,79808]]"
   - "[[_Standards/WikiData/WD~Durrës,83285]]"
@@ -114,7 +116,6 @@ demonym:
   - солунчанин
 official_name: Θεσσαλονίκη
 native_label: Θεσσαλονίκη
-coordinate_location: Point(22.935555555 40.640277777)
 time_of_earliest_written_record: -0400-01-01T00:00:00Z
 YouTube_handle: cityofthessaloniki
 number_of_viewers_listeners: 906146
@@ -147,6 +148,22 @@ Commons_category: Thessaloniki
 # [[Thessaloniki]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Thessaloniki,17151|WD~Thessaloniki,17151]] 
+
+## #has_/map 
+
+```leaflet
+id: Thessaloniki
+geojsonFolder: ./Thessaloniki/
+markerFolder: ./Thessaloniki/
+coordinates: [[Thessaloniki]] 
+markerFile: [[Thessaloniki]] 
+zoomFeatures: false
+defaultZoom: 10 
+maxZoom: 18
+minZoom: 6
+```
+
+
 
 ## #has_/text_of_/abstract 
 

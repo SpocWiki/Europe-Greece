@@ -51,7 +51,7 @@ inflows:
   - "[[_Standards/WikiData/WD~San_Leonardo,28671618]]"
   - "[[_Standards/WikiData/WD~Esaro_(Crotone),55611025]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"

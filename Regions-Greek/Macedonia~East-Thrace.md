@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Anatoliki_Makedonia_kai_Thraki
+  - Eastern Macedonia and Thrace
+  - Macedonia~East-Thrace
 location:
   - 41.2
   - 25
@@ -12,19 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Anatoliki_Makedonia_kai_Thraki
-  - Eastern Macedonia and Thrace
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Anatoliki_Makedonia_kai_Thraki

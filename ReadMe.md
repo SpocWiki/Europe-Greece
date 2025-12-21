@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Greece
+  - Grecia
+  - Grèce
+  - اليونان
+  - 希腊
+  - Греция
+  - the Hellenic Republic
+  - la República Helénica
+  - ReadMe
 location:
   - 38.6175
   - 23.0356
@@ -15,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Greece
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Greece
-  - Grecia
-  - Grèce
-  - اليونان
-  - 希腊
-  - Греция
-  - the Hellenic Republic
-  - la República Helénica
+publishDate: ''
+expiryDate: ''
 Languages:
   - el-GR
   - en

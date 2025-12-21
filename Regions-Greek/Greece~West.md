@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Dytiki_Ellada
+  - Dytiki Ellada
+  - Greece,West
+  - West Greece
+  - Western Greece
+  - Greece~West
 location:
   - 37.9
   - 21.5
@@ -12,22 +19,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Dytiki_Ellada
-  - Dytiki Ellada
-  - Greece,West
-  - West Greece
-  - Western Greece
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Dytiki_Ellada

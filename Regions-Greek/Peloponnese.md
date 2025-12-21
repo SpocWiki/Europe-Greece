@@ -8,6 +8,7 @@ aliases:
   - Μωριάς
   - Mōrèas
   - Mōriàs
+  - Peloponnese
 ---
 
 # [[Peloponnese]] 

@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Stereá_Elláda
+  - Stereá Elláda
+  - Greece,Central
+  - Central Greece
+  - Greece~Central
 location:
   - 38.7
   - 22.5
@@ -12,21 +18,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Stereá_Elláda
-  - Stereá Elláda
-  - Greece,Central
-  - Central Greece
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Greece~Central]]

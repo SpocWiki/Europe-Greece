@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Voreio_Aigaio
+  - South-Aegean
+  - South Aegean
+  - Aegean~South
 location:
   - 37.7
   - 26.8
@@ -12,20 +17,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Voreio_Aigaio
-  - South-Aegean
-  - South Aegean
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Voreio_Aigaio

@@ -2,14 +2,15 @@
 aliases:
   - Indo-Greek Kingdom
   - Yavana Kingdom
+  - Indo-Greek_Kingdom
 has_id_wikidata: Q215643
-followed_by: "[[_Standards/WikiData/WD~Indo_Scythians,240123]]"
-follows: "[[_Standards/WikiData/WD~Greco_Bactrian_Kingdom,488880]]"
-capital: "[[_Standards/WikiData/WD~Alexandria_on_the_Caucasus,2005166]]"
-instance_of: "[[_Standards/WikiData/WD~Hellenistic_kingdom,3932025]]"
+followed_by: '[[_Standards/WikiData/WD~Indo_Scythians,240123]]'
+follows: '[[_Standards/WikiData/WD~Greco_Bactrian_Kingdom,488880]]'
+capital: '[[_Standards/WikiData/WD~Alexandria_on_the_Caucasus,2005166]]'
+instance_of: '[[_Standards/WikiData/WD~Hellenistic_kingdom,3932025]]'
 inception: -0179-01-01T00:00:00Z
-religion_or_worldview: "[[_Standards/WikiData/WD~Buddhism,748]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Buddhism,748]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/IndoGreekKingdomAndCampaigns.svg
 Wolfram_Language_entity_code:
   - Entity["HistoricalCountry", "Indo-GreekKingdom"]

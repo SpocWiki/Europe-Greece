@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Dytiki_Makedonia
+  - Dytiki Makedonia
+  - Macedonia,West
+  - West Macedonia
+  - Western Macedonia
+  - Macedonia~West
 location:
   - 40.4
   - 21.4
@@ -12,22 +19,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Dytiki_Makedonia
-  - Dytiki Makedonia
-  - Macedonia,West
-  - West Macedonia
-  - Western Macedonia
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Dytiki_Makedonia

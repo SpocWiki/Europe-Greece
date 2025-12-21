@@ -1,6 +1,7 @@
 ---
 aliases:
   - Delian League
+  - Delian_League
 has_id_wikidata: Q193235
 ---
 

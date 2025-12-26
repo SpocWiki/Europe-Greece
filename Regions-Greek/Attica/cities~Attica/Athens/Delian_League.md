@@ -3,6 +3,18 @@ aliases:
   - Delian League
   - Delian_League
 has_id_wikidata: Q193235
+instance_of:
+  - "[[_Standards/WikiData/WD~confederation,170156]]"
+  - "[[_Standards/WikiData/WD~koinon,1778834]]"
+location: "[[_Standards/WikiData/WD~Delos,173148]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+inception: -0477-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20athenian%20empire%20431%20BC-en.svg
+Commons_category: Delian League
+Krugosvet_article_archived_: istoriya/DELOSSKI_SOYUZ.html
+dissolved_abolished_or_demolished_date: -0402-01-01T00:00:00Z
 ---
 
 # [[Delian_League]] 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 0010-01-01 
 aliases:
   - Indo-Greek Kingdom
   - Yavana Kingdom

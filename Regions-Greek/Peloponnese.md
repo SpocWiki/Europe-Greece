@@ -9,6 +9,7 @@ aliases:
   - Mōrèas
   - Mōriàs
   - Peloponnese
+dv_is_: {}
 ---
 
 # [[Peloponnese]] 
@@ -37,17 +38,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Peloponnese](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese|Peloponnese]] 
 
-### [Peloponnese.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese.public|Peloponnese.public]] 
 
-### [Peloponnese.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese.internal|Peloponnese.internal]] 
 
-### [Peloponnese.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese.protect|Peloponnese.protect]] 
 
-### [Peloponnese.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese.private|Peloponnese.private]] 
 
-### [Peloponnese.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese.personal|Peloponnese.personal]] 
 
-### [Peloponnese.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese.secret|Peloponnese.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31362
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.42
+dv_has_place_latitude: 40.93
+dv_name: Kavalla
+dv_Country: "[[../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.42] 
-[has_place_latitude::40.93] 
-[name::Kavalla] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kavalla](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla|Kavalla]] 
 
-### [Kavalla.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.public|Kavalla.public]] 
 
-### [Kavalla.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.internal|Kavalla.internal]] 
 
-### [Kavalla.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.protect|Kavalla.protect]] 
 
-### [Kavalla.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.private|Kavalla.private]] 
 
-### [Kavalla.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.personal|Kavalla.personal]] 
 
-### [Kavalla.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace/Kavalla.secret|Kavalla.secret]] 
 

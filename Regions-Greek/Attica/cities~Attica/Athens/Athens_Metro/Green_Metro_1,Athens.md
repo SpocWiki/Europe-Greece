@@ -1,5 +1,11 @@
+---
+dv_has_:
+  time_:
+    started: 1869-02-27T00:00:00.000+00:53
+dv_has_time_started: 1869-02-27
+---
 
-#has_/time_/started :: 1869-02-27 
+has_time_started = `=this.dv_has_time_started`
 
 #### Green Line 1 [[../../Athens]] 
 
@@ -21,17 +27,17 @@ The oldest Line, created 1869-02-27, right after the London Metro.
 
 ## Confidential Links & Embeds: 
 
-### [Green_Metro_1,Athens](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Green_Metro_1,Athens.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Green_Metro_1,Athens|Green_Metro_1,Athens]] 
 
-### [Green_Metro_1,Athens.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Green_Metro_1,Athens.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Green_Metro_1,Athens.public|Green_Metro_1,Athens.public]] 
 
-### [Green_Metro_1,Athens.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Green_Metro_1,Athens.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Green_Metro_1,Athens.internal|Green_Metro_1,Athens.internal]] 
 
-### [Green_Metro_1,Athens.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Green_Metro_1,Athens.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Green_Metro_1,Athens.protect|Green_Metro_1,Athens.protect]] 
 
-### [Green_Metro_1,Athens.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Green_Metro_1,Athens.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Green_Metro_1,Athens.private|Green_Metro_1,Athens.private]] 
 
-### [Green_Metro_1,Athens.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Green_Metro_1,Athens.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Green_Metro_1,Athens.personal|Green_Metro_1,Athens.personal]] 
 
-### [Green_Metro_1,Athens.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Green_Metro_1,Athens.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Green_Metro_1,Athens.secret|Green_Metro_1,Athens.secret]] 
 

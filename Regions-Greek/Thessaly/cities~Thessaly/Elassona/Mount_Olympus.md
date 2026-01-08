@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Mount_Olympus,80344]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Mount_Olympus,80344]]"
+
 has_time_started: 1938-01-01 
 aliases:
   - Mount Olympus
@@ -65,7 +69,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/OLIMP.html
 
 # [[Mount_Olympus]] 
 
-#is_/same_as :: [[WD~Mount_Olympus,80344]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -84,4 +88,21 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/OLIMP.html
 > Olympus remains the most popular hiking summit in Greece, as well as one of the most popular in Europe. Organized mountain refuges and various mountaineering and climbing routes are available. The usual starting point is the town of Litochoro which lies in the eastern foothills of the mountain, some 100 km (62 mi) from Thessaloniki.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mount%20Olympus) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly/cities~Thessaly/Elassona/Mount_Olympus|Mount_Olympus]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly/cities~Thessaly/Elassona/Mount_Olympus.public|Mount_Olympus.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly/cities~Thessaly/Elassona/Mount_Olympus.internal|Mount_Olympus.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly/cities~Thessaly/Elassona/Mount_Olympus.protect|Mount_Olympus.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly/cities~Thessaly/Elassona/Mount_Olympus.private|Mount_Olympus.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly/cities~Thessaly/Elassona/Mount_Olympus.personal|Mount_Olympus.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly/cities~Thessaly/Elassona/Mount_Olympus.secret|Mount_Olympus.secret]] 
 

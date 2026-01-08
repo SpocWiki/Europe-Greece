@@ -9,45 +9,45 @@ location:
   - 22.423611111
 coordinate_location: Point(22.423611111 37.081944444)
 basic_form_of_government:
-  - '[[_Standards/WikiData/WD~oligarchy,79751]]'
-  - '[[_Standards/WikiData/WD~republic,7270]]'
+  - "[[_Standards/WikiData/WD~oligarchy,79751]]"
+  - "[[_Standards/WikiData/WD~republic,7270]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~polis,148837]]'
-  - '[[_Standards/WikiData/WD~ancient_city,15661340]]'
-  - '[[_Standards/WikiData/WD~former_administrative_territorial_entity,19953632]]'
-  - '[[_Standards/WikiData/WD~Ancient_Greek_archaeological_site,93342462]]'
+  - "[[_Standards/WikiData/WD~polis,148837]]"
+  - "[[_Standards/WikiData/WD~ancient_city,15661340]]"
+  - "[[_Standards/WikiData/WD~former_administrative_territorial_entity,19953632]]"
+  - "[[_Standards/WikiData/WD~Ancient_Greek_archaeological_site,93342462]]"
 legislative_body:
-  - '[[_Standards/WikiData/WD~Gerousia,495552]]'
-  - '[[_Standards/WikiData/WD~Ecclesia,514435]]'
+  - "[[_Standards/WikiData/WD~Gerousia,495552]]"
+  - "[[_Standards/WikiData/WD~Ecclesia,514435]]"
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
   - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-religion_or_worldview: '[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Sparta_Municipality,992450]]'
-capital: '[[_Standards/WikiData/WD~Sparta,2308046]]'
-category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q9220038,9220038]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q9227477,9227477]]'
-different_from: '[[_Standards/WikiData/WD~Esparta,10274931]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Lacedaemon,11130899]]'
+religion_or_worldview: "[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Sparta_Municipality,992450]]"
+capital: "[[_Standards/WikiData/WD~Sparta,2308046]]"
+category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q9220038,9220038]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q9227477,9227477]]"
+different_from: "[[_Standards/WikiData/WD~Esparta,10274931]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Lacedaemon,11130899]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Sanctuary_of_Ammon_in_Sparta,124616463]]'
-  - '[[_Standards/WikiData/WD~Sanctuary_of_Ares_Theritas_on_Sparta_Therapne_road,134037206]]'
-  - '[[_Standards/WikiData/WD~Sanctuary_of_Zeus_Plousios_on_Sparta_Therapne_road,134037210]]'
-  - '[[_Standards/WikiData/WD~Sanctuary_of_Achilles_on_road_out_of_Sparta,134037229]]'
-  - '[[_Standards/WikiData/WD~Sanctuary_of_Mysian_Artemis_on_Sparta_Arcadia_road,134037235]]'
-  - '[[_Standards/WikiData/WD~Issorion_Artemis_shrine_(Sparta),134040007]]'
+  - "[[_Standards/WikiData/WD~Sanctuary_of_Ammon_in_Sparta,124616463]]"
+  - "[[_Standards/WikiData/WD~Sanctuary_of_Ares_Theritas_on_Sparta_Therapne_road,134037206]]"
+  - "[[_Standards/WikiData/WD~Sanctuary_of_Zeus_Plousios_on_Sparta_Therapne_road,134037210]]"
+  - "[[_Standards/WikiData/WD~Sanctuary_of_Achilles_on_road_out_of_Sparta,134037229]]"
+  - "[[_Standards/WikiData/WD~Sanctuary_of_Mysian_Artemis_on_Sparta_Arcadia_road,134037235]]"
+  - "[[_Standards/WikiData/WD~Issorion_Artemis_shrine_(Sparta),134040007]]"
 dissolved_abolished_or_demolished_date: -0191-01-01T00:00:00Z
-country: '[[_Standards/WikiData/WD~Greece,41]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
-language_used: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
-official_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+country: "[[_Standards/WikiData/WD~Greece,41]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+language_used: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
+official_language: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
 area: 1.182
 BHCL_UUID: 25bd2c38-2ed2-47fa-b985-79b67651e8ca
 Commons_category: Sparta
@@ -60,11 +60,14 @@ locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/TerritorioEspartano.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sparta.jpg
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "Sparta"]
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Sparta,5690]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Sparta,5690]]"
 ---
 
 # [[Sparta]] 
 
-#is_/same_as :: [[WD~Sparta,5690]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -131,4 +134,21 @@ Wolfram_Language_entity_code: Entity["HistoricalCountry", "Sparta"]
 > The admiration of Sparta is known as Laconophilia.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sparta) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese/cities~Peloponnese/Sparta|Sparta]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese/cities~Peloponnese/Sparta.public|Sparta.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese/cities~Peloponnese/Sparta.internal|Sparta.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese/cities~Peloponnese/Sparta.protect|Sparta.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese/cities~Peloponnese/Sparta.private|Sparta.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese/cities~Peloponnese/Sparta.personal|Sparta.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Peloponnese/cities~Peloponnese/Sparta.secret|Sparta.secret]] 
 

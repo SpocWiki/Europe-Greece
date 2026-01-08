@@ -44,17 +44,17 @@ markerFolder: ./Kentriki_Makedonia/
 
 ## Confidential Links & Embeds: 
 
-### [Macedonia~Central](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~Central.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~Central|Macedonia~Central]] 
 
-### [Macedonia~Central.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~Central.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~Central.public|Macedonia~Central.public]] 
 
-### [Macedonia~Central.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~Central.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~Central.internal|Macedonia~Central.internal]] 
 
-### [Macedonia~Central.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~Central.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~Central.protect|Macedonia~Central.protect]] 
 
-### [Macedonia~Central.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~Central.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~Central.private|Macedonia~Central.private]] 
 
-### [Macedonia~Central.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~Central.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~Central.personal|Macedonia~Central.personal]] 
 
-### [Macedonia~Central.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~Central.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~Central.secret|Macedonia~Central.secret]] 
 

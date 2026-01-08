@@ -42,17 +42,17 @@ markerFolder: ./Ionioi_Nisoi/
 
 ## Confidential Links & Embeds: 
 
-### [Ionian_Islands](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands|Ionian_Islands]] 
 
-### [Ionian_Islands.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands.public|Ionian_Islands.public]] 
 
-### [Ionian_Islands.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands.internal|Ionian_Islands.internal]] 
 
-### [Ionian_Islands.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands.protect|Ionian_Islands.protect]] 
 
-### [Ionian_Islands.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands.private|Ionian_Islands.private]] 
 
-### [Ionian_Islands.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands.personal|Ionian_Islands.personal]] 
 
-### [Ionian_Islands.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands.secret|Ionian_Islands.secret]] 
 

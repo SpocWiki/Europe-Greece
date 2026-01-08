@@ -61,17 +61,17 @@ graph TD;
 
 ## Confidential Links & Embeds: 
 
-### [Athens_Metro](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro|Athens_Metro]] 
 
-### [Athens_Metro.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro.public|Athens_Metro.public]] 
 
-### [Athens_Metro.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro.internal|Athens_Metro.internal]] 
 
-### [Athens_Metro.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro.protect|Athens_Metro.protect]] 
 
-### [Athens_Metro.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro.private|Athens_Metro.private]] 
 
-### [Athens_Metro.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro.personal|Athens_Metro.personal]] 
 
-### [Athens_Metro.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro.secret|Athens_Metro.secret]] 
 

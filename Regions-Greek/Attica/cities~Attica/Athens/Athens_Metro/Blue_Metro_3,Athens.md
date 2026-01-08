@@ -1,5 +1,11 @@
+---
+dv_has_:
+  time_:
+    started: 2000-01-28T00:00:00.000+01:00
+dv_has_time_started: 2000-01-28
+---
 
-#has_/time_/started :: 2000-01-28 
+has_time_started = `=this.dv_has_time_started`
 
 #### Blue Line 3 [[../../Athens]]  
 
@@ -34,17 +40,17 @@ The longest Line:
 
 ## Confidential Links & Embeds: 
 
-### [Blue_Metro_3,Athens](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens|Blue_Metro_3,Athens]] 
 
-### [Blue_Metro_3,Athens.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.public|Blue_Metro_3,Athens.public]] 
 
-### [Blue_Metro_3,Athens.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.internal|Blue_Metro_3,Athens.internal]] 
 
-### [Blue_Metro_3,Athens.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.protect|Blue_Metro_3,Athens.protect]] 
 
-### [Blue_Metro_3,Athens.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.private|Blue_Metro_3,Athens.private]] 
 
-### [Blue_Metro_3,Athens.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.personal|Blue_Metro_3,Athens.personal]] 
 
-### [Blue_Metro_3,Athens.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Blue_Metro_3,Athens.secret|Blue_Metro_3,Athens.secret]] 
 

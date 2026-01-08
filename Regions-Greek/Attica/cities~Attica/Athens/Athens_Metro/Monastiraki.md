@@ -34,17 +34,17 @@ Most central and nice Place in Athens.
 
 ## Confidential Links & Embeds: 
 
-### [Monastiraki](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Monastiraki.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Monastiraki|Monastiraki]] 
 
-### [Monastiraki.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Monastiraki.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Monastiraki.public|Monastiraki.public]] 
 
-### [Monastiraki.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Monastiraki.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Monastiraki.internal|Monastiraki.internal]] 
 
-### [Monastiraki.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Monastiraki.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Monastiraki.protect|Monastiraki.protect]] 
 
-### [Monastiraki.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Monastiraki.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Monastiraki.private|Monastiraki.private]] 
 
-### [Monastiraki.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Monastiraki.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Monastiraki.personal|Monastiraki.personal]] 
 
-### [Monastiraki.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Monastiraki.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Monastiraki.secret|Monastiraki.secret]] 
 

@@ -1,5 +1,11 @@
+---
+dv_has_:
+  time_:
+    started: 1829-06-01T00:00:00.000+00:53
+dv_has_time_started: 1829-06-01
+---
 
-#has_/time_/started :: 1829-06 
+has_time_started = `=this.dv_has_time_started`
 
 
 > The National Archaeological Museum 
@@ -22,17 +28,17 @@ It charges only 6€ (2024) and has a great internal Garden and Cafeteria.
 
 ## Confidential Links & Embeds: 
 
-### [National_Archaeological_Museum,Athens](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/National_Archaeological_Museum,Athens.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/National_Archaeological_Museum,Athens|National_Archaeological_Museum,Athens]] 
 
-### [National_Archaeological_Museum,Athens.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/National_Archaeological_Museum,Athens.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/National_Archaeological_Museum,Athens.public|National_Archaeological_Museum,Athens.public]] 
 
-### [National_Archaeological_Museum,Athens.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/National_Archaeological_Museum,Athens.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/National_Archaeological_Museum,Athens.internal|National_Archaeological_Museum,Athens.internal]] 
 
-### [National_Archaeological_Museum,Athens.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/National_Archaeological_Museum,Athens.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/National_Archaeological_Museum,Athens.protect|National_Archaeological_Museum,Athens.protect]] 
 
-### [National_Archaeological_Museum,Athens.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/National_Archaeological_Museum,Athens.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/National_Archaeological_Museum,Athens.private|National_Archaeological_Museum,Athens.private]] 
 
-### [National_Archaeological_Museum,Athens.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/National_Archaeological_Museum,Athens.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/National_Archaeological_Museum,Athens.personal|National_Archaeological_Museum,Athens.personal]] 
 
-### [National_Archaeological_Museum,Athens.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/National_Archaeological_Museum,Athens.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/National_Archaeological_Museum,Athens.secret|National_Archaeological_Museum,Athens.secret]] 
 

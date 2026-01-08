@@ -18,17 +18,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [AIA(Athens_Airport)](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/AIA(Athens_Airport).md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/AIA(Athens_Airport)|AIA(Athens_Airport)]] 
 
-### [AIA(Athens_Airport).public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/AIA(Athens_Airport).public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/AIA(Athens_Airport).public|AIA(Athens_Airport).public]] 
 
-### [AIA(Athens_Airport).internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/AIA(Athens_Airport).internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/AIA(Athens_Airport).internal|AIA(Athens_Airport).internal]] 
 
-### [AIA(Athens_Airport).protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/AIA(Athens_Airport).protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/AIA(Athens_Airport).protect|AIA(Athens_Airport).protect]] 
 
-### [AIA(Athens_Airport).private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/AIA(Athens_Airport).private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/AIA(Athens_Airport).private|AIA(Athens_Airport).private]] 
 
-### [AIA(Athens_Airport).personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/AIA(Athens_Airport).personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/AIA(Athens_Airport).personal|AIA(Athens_Airport).personal]] 
 
-### [AIA(Athens_Airport).secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/AIA(Athens_Airport).secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/AIA(Athens_Airport).secret|AIA(Athens_Airport).secret]] 
 

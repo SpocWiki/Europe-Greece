@@ -37,11 +37,14 @@ described_at_URL:
   - http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=716
 Krugosvet_article_archived_: istoriya/knoss
 coordinate_location: Point(25.163155555 35.297961111)
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Knossos,173527|WD~Knossos,173527]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Knossos,173527|WD~Knossos,173527]]"
 ---
 
 # [[Knossos]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Knossos,173527|WD~Knossos,173527]] 
+is_same_as = `=this.dv_is_same_as`
 ## #has_/text_of_/abstract 
 
 > **Knossos** (Ancient Greek: Κνωσσός, romanized: Knōssós, [knɔː.sós]; Linear B: 𐀒𐀜𐀰 Ko-no-so) 
@@ -57,4 +60,21 @@ coordinate_location: Point(25.163155555 35.297961111)
 > The site was first excavated by Minos Kalokairinos in 1877. In 1900, Sir Arthur Evans undertook more extensive excavations which unearthed most of the palace as well as many now-famous artifacts including the Bull-Leaping Fresco, the snake goddess figurines, and numerous Linear B tablets. While Evans is often credited for discovering the Minoan Civilization, his work is controversial in particular for his inaccurate and irreversible reconstructions of architectural remains at the site.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Knossos) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Crete/cities~Crete/Heraklion/Knossos|Knossos]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Crete/cities~Crete/Heraklion/Knossos.public|Knossos.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Crete/cities~Crete/Heraklion/Knossos.internal|Knossos.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Crete/cities~Crete/Heraklion/Knossos.protect|Knossos.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Crete/cities~Crete/Heraklion/Knossos.private|Knossos.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Crete/cities~Crete/Heraklion/Knossos.personal|Knossos.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Crete/cities~Crete/Heraklion/Knossos.secret|Knossos.secret]] 
 

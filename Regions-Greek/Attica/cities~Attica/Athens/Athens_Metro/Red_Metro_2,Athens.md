@@ -1,5 +1,11 @@
+---
+dv_has_:
+  time_:
+    started: 2000-01-28T00:00:00.000+01:00
+dv_has_time_started: 2000-01-28
+---
 
-#has_/time_/started :: 2000-01-28 
+has_time_started = `=this.dv_has_time_started`
 
 ### Red Line 2 [[../../Athens]]  
 
@@ -20,17 +26,17 @@ to the southern suburb of [[Elliniko]] since 2000-01-28.
 
 ## Confidential Links & Embeds: 
 
-### [Red_Metro_2,Athens](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Red_Metro_2,Athens.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Red_Metro_2,Athens|Red_Metro_2,Athens]] 
 
-### [Red_Metro_2,Athens.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Red_Metro_2,Athens.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Red_Metro_2,Athens.public|Red_Metro_2,Athens.public]] 
 
-### [Red_Metro_2,Athens.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Red_Metro_2,Athens.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Red_Metro_2,Athens.internal|Red_Metro_2,Athens.internal]] 
 
-### [Red_Metro_2,Athens.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Red_Metro_2,Athens.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Red_Metro_2,Athens.protect|Red_Metro_2,Athens.protect]] 
 
-### [Red_Metro_2,Athens.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Red_Metro_2,Athens.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Red_Metro_2,Athens.private|Red_Metro_2,Athens.private]] 
 
-### [Red_Metro_2,Athens.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Red_Metro_2,Athens.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Red_Metro_2,Athens.personal|Red_Metro_2,Athens.personal]] 
 
-### [Red_Metro_2,Athens.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Red_Metro_2,Athens.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Athens_Metro/Red_Metro_2,Athens.secret|Red_Metro_2,Athens.secret]] 
 

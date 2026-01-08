@@ -23,11 +23,14 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Mount_Athos,130321|WD~Mount_Athos,130321]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Mount_Athos,130321|WD~Mount_Athos,130321]]"
 ---
 
 # [[Mount_Athos]]  
@@ -46,7 +49,7 @@ coordinates: [[Mount_Athos]]
 markerFile: [[Mount_Athos]] 
 ```
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Mount_Athos,130321|WD~Mount_Athos,130321]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -60,20 +63,19 @@ markerFile: [[Mount_Athos]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Mount%20Athos) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Mount_Athos](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Mount_Athos.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Mount_Athos|Mount_Athos]] 
 
-### [Mount_Athos.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Mount_Athos.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Mount_Athos.public|Mount_Athos.public]] 
 
-### [Mount_Athos.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Mount_Athos.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Mount_Athos.internal|Mount_Athos.internal]] 
 
-### [Mount_Athos.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Mount_Athos.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Mount_Athos.protect|Mount_Athos.protect]] 
 
-### [Mount_Athos.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Mount_Athos.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Mount_Athos.private|Mount_Athos.private]] 
 
-### [Mount_Athos.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Mount_Athos.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Mount_Athos.personal|Mount_Athos.personal]] 
 
-### [Mount_Athos.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Mount_Athos.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Mount_Athos.secret|Mount_Athos.secret]] 
 

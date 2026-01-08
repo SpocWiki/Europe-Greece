@@ -54,17 +54,17 @@ markerFile: [[Thessaly]]
 
 ## Confidential Links & Embeds: 
 
-### [Thessaly](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly|Thessaly]] 
 
-### [Thessaly.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly.public|Thessaly.public]] 
 
-### [Thessaly.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly.internal|Thessaly.internal]] 
 
-### [Thessaly.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly.protect|Thessaly.protect]] 
 
-### [Thessaly.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly.private|Thessaly.private]] 
 
-### [Thessaly.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly.personal|Thessaly.personal]] 
 
-### [Thessaly.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Thessaly.secret|Thessaly.secret]] 
 

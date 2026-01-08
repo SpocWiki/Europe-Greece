@@ -41,17 +41,17 @@ markerFolder: ./Attiki/
 
 ## Confidential Links & Embeds: 
 
-### [Attica](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica|Attica]] 
 
-### [Attica.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica.public|Attica.public]] 
 
-### [Attica.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica.internal|Attica.internal]] 
 
-### [Attica.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica.protect|Attica.protect]] 
 
-### [Attica.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica.private|Attica.private]] 
 
-### [Attica.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica.personal|Attica.personal]] 
 
-### [Attica.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica.secret|Attica.secret]] 
 

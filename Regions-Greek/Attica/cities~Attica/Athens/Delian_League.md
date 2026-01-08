@@ -15,12 +15,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20athenian%20empir
 Commons_category: Delian League
 Krugosvet_article_archived_: istoriya/DELOSSKI_SOYUZ.html
 dissolved_abolished_or_demolished_date: -0402-01-01T00:00:00Z
+dv_is_:
+  similar_to: "[[Peloponnesian_League]]"
+  same_as: "[[../../../../../../../../../WikiData/WD~Delian_League,193235|WD~Delian_League,193235]]"
+dv_is_similar_to: "[[Peloponnesian_League]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Delian_League,193235|WD~Delian_League,193235]]"
 ---
 
 # [[Delian_League]] 
 
-#is_/similar_to :: [[Peloponnesian_League]] 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Delian_League,193235|WD~Delian_League,193235]] 
+is_similar_to = `=this.dv_is_similar_to`
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -41,4 +46,21 @@ dissolved_abolished_or_demolished_date: -0402-01-01T00:00:00Z
 > From its inception, Athens became the League's biggest source of military power, while more and more allies preferred to pay the dues in cash. Athens began to use the League's funds for its own purposes, like the reinforcement of its naval supremacy, which led to conflicts between the city and its less powerful allies, at times culminating in rebellions, like that of Thasos in 465 BC. The League's treasury initially stood in Delos until, in a symbolic gesture, Pericles moved it to Athens in 454 BC. By 431 BC, the threat that the League presented to Spartan hegemony combined with Athens's heavy-handed control of the Delian League prompted the outbreak of the Peloponnesian War; the League was dissolved upon the war's conclusion in 404 BC under the direction of Lysander, the Spartan commander. Witnessing Sparta's growing hegemony in the first half of the 4th century BC, Athens went on to partly revive the alliance, this time called the Second Athenian League, reestablishing its naval dominance in the eastern Mediterranean.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Delian%20League) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Delian_League|Delian_League]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Delian_League.public|Delian_League.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Delian_League.internal|Delian_League.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Delian_League.protect|Delian_League.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Delian_League.private|Delian_League.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Delian_League.personal|Delian_League.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Attica/cities~Attica/Athens/Delian_League.secret|Delian_League.secret]] 
 

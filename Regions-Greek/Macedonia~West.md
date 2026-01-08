@@ -45,17 +45,17 @@ markerFolder: ./Dytiki_Makedonia/
 
 ## Confidential Links & Embeds: 
 
-### [Macedonia~West](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~West.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~West|Macedonia~West]] 
 
-### [Macedonia~West.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~West.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~West.public|Macedonia~West.public]] 
 
-### [Macedonia~West.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~West.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~West.internal|Macedonia~West.internal]] 
 
-### [Macedonia~West.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~West.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~West.protect|Macedonia~West.protect]] 
 
-### [Macedonia~West.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~West.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~West.private|Macedonia~West.private]] 
 
-### [Macedonia~West.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~West.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~West.personal|Macedonia~West.personal]] 
 
-### [Macedonia~West.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~West.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~West.secret|Macedonia~West.secret]] 
 

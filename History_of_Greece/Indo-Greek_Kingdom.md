@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Indo-Greek_Kingdom,215643|WD~Indo-Greek_Kingdom,215643]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Indo-Greek_Kingdom,215643|WD~Indo-Greek_Kingdom,215643]]"
+
 has_time_stopped: 0010-01-01 
 aliases:
   - Indo-Greek Kingdom
@@ -23,7 +27,7 @@ dissolved_abolished_or_demolished_date: 0010-01-01T00:00:00Z
 
 # [[Indo-Greek_Kingdom]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Indo-Greek_Kingdom,215643|WD~Indo-Greek_Kingdom,215643]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -83,4 +87,21 @@ dissolved_abolished_or_demolished_date: 0010-01-01T00:00:00Z
 > whose Western Satraps state lingered on encompassing local Greeks, up to 415 CE.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indo-Greek%20Kingdom)  
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/History_of_Greece/Indo-Greek_Kingdom|Indo-Greek_Kingdom]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/History_of_Greece/Indo-Greek_Kingdom.public|Indo-Greek_Kingdom.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/History_of_Greece/Indo-Greek_Kingdom.internal|Indo-Greek_Kingdom.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/History_of_Greece/Indo-Greek_Kingdom.protect|Indo-Greek_Kingdom.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/History_of_Greece/Indo-Greek_Kingdom.private|Indo-Greek_Kingdom.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/History_of_Greece/Indo-Greek_Kingdom.personal|Indo-Greek_Kingdom.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/History_of_Greece/Indo-Greek_Kingdom.secret|Indo-Greek_Kingdom.secret]] 
 

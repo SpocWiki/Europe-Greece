@@ -42,17 +42,17 @@ markerFolder: ./Anatoliki_Makedonia_kai_Thraki/
 
 ## Confidential Links & Embeds: 
 
-### [Macedonia~East-Thrace](/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace|Macedonia~East-Thrace]] 
 
-### [Macedonia~East-Thrace.public](/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.public|Macedonia~East-Thrace.public]] 
 
-### [Macedonia~East-Thrace.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.internal|Macedonia~East-Thrace.internal]] 
 
-### [Macedonia~East-Thrace.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.protect|Macedonia~East-Thrace.protect]] 
 
-### [Macedonia~East-Thrace.private](/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.private|Macedonia~East-Thrace.private]] 
 
-### [Macedonia~East-Thrace.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.personal|Macedonia~East-Thrace.personal]] 
 
-### [Macedonia~East-Thrace.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Macedonia~East-Thrace.secret|Macedonia~East-Thrace.secret]] 
 

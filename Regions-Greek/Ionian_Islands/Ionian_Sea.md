@@ -72,14 +72,19 @@ vertical_depth: 5267
 OmegaWiki_Defined_Meaning: "729045"
 coordinate_location: Point(19.0 38.0)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Greece%2023.91172E%2039.08554N.jpg
-Wolfram_Language_entity_code: Entity["Concept", "IonianSea::ymj9b"]
+Wolfram_Language_entity_code: Entity"Concept", "IonianSea = `=this.dv_"Concept", "IonianSea`
 Commons_gallery: Ionian Sea
 Commons_category: Ionian Sea
+dv_"Concept", "IonianSea: ymj9b"
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Ionian_Sea,37495]]"
+dv_concept-ioniansea: ymj9b"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Ionian_Sea,37495]]"
 ---
 
 # [[Ionian_Sea]] 
 
-#is_/same_as :: [[WD~Ionian_Sea,37495]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -90,3 +95,21 @@ Commons_category: Ionian Sea
 > There are ferry routes between Patras and Igoumenitsa, Greece, and Brindisi and Ancona, Italy, that cross the east and north of the Ionian Sea, and from Piraeus westward. Calypso Deep, the deepest point in the Mediterranean at 5,109 m (16,762 ft), is in the Ionian Sea, at 36°34′N 21°8′E. The sea is one of the most seismically active areas in the world.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ionian%20Sea) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands/Ionian_Sea|Ionian_Sea]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands/Ionian_Sea.public|Ionian_Sea.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands/Ionian_Sea.internal|Ionian_Sea.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands/Ionian_Sea.protect|Ionian_Sea.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands/Ionian_Sea.private|Ionian_Sea.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands/Ionian_Sea.personal|Ionian_Sea.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/Regions-Greek/Ionian_Islands/Ionian_Sea.secret|Ionian_Sea.secret]] 
+

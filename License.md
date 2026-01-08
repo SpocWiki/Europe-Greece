@@ -113,17 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License](/_Standards/Earth/Continent/Europe/Europe~South/Greece/License.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece/License|License]] 
 
-### [License.public](/_public/Earth/Continent/Europe/Europe~South/Greece/License.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece/License.public|License.public]] 
 
-### [License.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece/License.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece/License.internal|License.internal]] 
 
-### [License.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece/License.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece/License.protect|License.protect]] 
 
-### [License.private](/_private/Earth/Continent/Europe/Europe~South/Greece/License.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece/License.private|License.private]] 
 
-### [License.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece/License.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece/License.personal|License.personal]] 
 
-### [License.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece/License.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece/License.secret|License.secret]] 
 

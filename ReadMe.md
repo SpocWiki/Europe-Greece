@@ -43,15 +43,13 @@ dv_ISO4217-currency_country_name: GREECE
 dv_Telephone: 30
 dv_Global: true
 dv_Global_Name: World
-dv_name: Greece
-dv_name-en:
-  - Greece
-  - Greece
-dv_name-es: Grecia
-dv_name-fr: Grèce
-dv_name-cn: 希腊
-dv_name-ar: اليونان
-dv_name-ru: Греция
+dv_has_name_: Greece
+dv_has_name_en: Greece
+dv_has_name_es: Grecia
+dv_has_name_fr: Grèce
+dv_has_name_cn: 希腊
+dv_has_name_ar: اليونان
+dv_has_name_ru: Греция
 dv_CLDR_display_name: Greece
 dv_UNTERM_English: Greece
 dv_UNTERM_English_Formal: the Hellenic Republic
@@ -88,7 +86,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 300
 dv_ISO2: GR
 dv_ISO3: GRC
-dv_name-de: Griechenland
+dv_has_name_de: Griechenland
 dv_Area-Total: 131957
 dv_Area-Land: 128900
 dv_Continent: "[[_public/geo/Continent/Europe]]"
@@ -115,12 +113,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Greece ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Greece ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -180,8 +178,8 @@ markerFolder: .////
 ```
 
 
-[name-en::Greece] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Greece] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

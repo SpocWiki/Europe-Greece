@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.37
 dv_has_place_latitude: 38.52
-dv_name: Amphissa
+dv_has_name_: Amphissa
 dv_Country: "[[../../../../Greece]]"
 ---
 #is_a_/Place  

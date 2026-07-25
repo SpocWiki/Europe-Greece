@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 希腊共和国
 dv_UNTERM_French_Formal: la République hellénique
 dv_UNTERM_Russian: Греция
 dv_UNTERM_Russian_Formal: Греческая Республика
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Greece]]'
 dv_Sub-region_Name: '[[Southern Europe]]'
 dv_Region: 150
@@ -52,7 +52,7 @@ dv_ISO2: GR
 dv_ISO3: GRC
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Greece,41|WD~Greece,41]]'
+  - '[[../../../../../WikiData/WD~Greece,41|WD~Greece,41]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~South/Greece|Greece]]'
   - '[[/_public/Earth/Continent/Europe/Europe~South/Greece.public|Greece.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~South/Greece.internal|Greece.internal]]'
@@ -401,17 +401,17 @@ dv_has_:
 dv_has_name_de: Griechenland
 dv_Area-Total: 131957
 dv_Area-Land: 128900
-dv_has_place_continent: '[[_public/Earth/Continent/Europe|Europe]]'
+dv_has_place_continent: '[[../_public/Earth/Continent/Europe|Europe]]'
 dv_VehicleCode: GR
-dv_Capital: '[[Greece/Regions-Greek/Attica/cities~Attica/Athens|Athens]]'
+dv_Capital: '[[Regions-Greek/Attica/cities~Attica/Athens|Athens]]'
 dv_Alcohol-l: 10.8
 dv_Language-Id: 491
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 23.0356
 dv_has_place_latitude: 38.6175
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Greece,41|WD~Greece,41]]'
+- '[[../../../../../WikiData/WD~Greece,41|WD~Greece,41]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~South/Greece|Greece]]'
 - '[[/_public/Earth/Continent/Europe/Europe~South/Greece.public|Greece.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~South/Greece.internal|Greece.internal]]'
@@ -745,7 +745,7 @@ demonym:
 - Grikänan
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
 - '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
@@ -955,7 +955,7 @@ maritime_identification_digits:
 - 239
 marriageable_age: 18
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
@@ -1171,13 +1171,13 @@ is_a = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Greece)
-into a Subfolder named `Greece`, so that this Link into the Sub-Repository works: [[Greece/ReadMe|ReadMe]] 
+into a Subfolder named `Greece`, so that this Link into the Sub-Repository works: [[ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 > [!warning] This can considerably increase the total size and depth of your wiki!
 
-[[Greece/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map 
@@ -1199,7 +1199,7 @@ defaultZoom: 6
 
 ```leaflet
 id: Greece_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1224,9 +1224,9 @@ Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-![[_public/Earth/Continent/Europe/Europe~South/Greece/Coat_of_arms_of_Greece.svg|350]] 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Greece.mp3|Anthem-Greece.mp3]]
-![[_public/Earth/Continent/Europe/Europe~South/Greece/Flag_of_Greece.svg|350]] 
+![[../_public/Earth/Continent/Europe/Europe~South/Greece/Coat_of_arms_of_Greece.svg|350]] 
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Greece.mp3|Anthem-Greece.mp3]]
+![[../_public/Earth/Continent/Europe/Europe~South/Greece/Flag_of_Greece.svg|350]] 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
 
@@ -1244,19 +1244,19 @@ with numbers as of 2023-06
 
 | Region                                                                       | Pop/k |   kkm² |  GDP/G€ | GDPpP/k€ | HDI   | Notable Properties                            |
 | ---------------------------------------------------------------------------- | ----: | -----: | ------: | -------: | ----- | --------------------------------------------- |
-| [[Greece/Regions-Greek/Attica\|Attica]]                                                                       |  3784 |  3.808 | 367.000 |   97.030 | 0.918 | Capital region; economic and political center |
-| [[Greece/Regions-Greek/Macedonia~Central\|Central Macedonia]]                                                            |  1778 | 18.811 |  50.500 |   28.418 | 0.872 | Second most populous; includes Thessaloniki   |
-| [[Greece/Regions-Greek/Thessaly\|Thessaly]]                                                                     |   678 | 14.037 |   7.240 |   10.661 | 0.880 | Agricultural hub; mountainous terrain         |
-| [[Greece/Regions-Greek/Crete\|Crete]]                                        |   622 |  8.336 |   6.430 |   10.331 | 0.882 | Largest island; tourism and agriculture       |
-| [[Greece/Regions-Greek/Greece~West\|Western Greece]]                         |   640 | 11.350 |   5.820 |    9.093 | 0.864 | Diverse economy; includes Patras              |
-| [[Greece/Regions-Greek/Peloponnese\|Peloponnese]]                            |   531 | 15.490 |   5.170 |    9.729 | 0.871 | Historical significance; agriculture          |
-| [[Greece/Regions-Greek/Greece~Central\|Central Greece]]                      |   505 | 15.549 |   5.800 |   11.475 | 0.876 | Rich in natural resources; includes Delphi    |
-| [[Greece/Regions-Greek/Macedonia~East-Thrace\|Eastern Macedonia and Thrace]] |   561 | 14.157 |   4.560 |    8.117 | 0.862 | Border region; diverse cultural heritage      |
-| [[Greece/Regions-Greek/Aegean~South\|South Aegean]]                          |   327 |  5.286 |   2.210 |    6.737 | 0.868 | Island region; tourism-driven economy         |
-| [[Greece/Regions-Greek/Epirus\|Epirus]]                                      |   321 |  9.203 |   1.420 |    4.432 | 0.878 | Mountainous; known for natural beauty         |
-| [[Greece/Regions-Greek/Macedonia~West\|Western Macedonia]]                   |   247 |  9.451 |   1.130 |    4.552 | 0.885 | Energy production; mountainous landscape      |
-| [[Greece/Regions-Greek/Aegean~North\|North Aegean]]                          |   201 |  3.836 |   0.544 |    2.704 | 0.870 | Island region; challenges in connectivity     |
-| [[Greece/Regions-Greek/Ionian_Islands\|Ionian Islands]]                      |   200 |  2.307 |   0.671 |    3.343 | 0.872 | Island region; tourism and agriculture        |
+| [[Regions-Greek/Attica/|Attica]]                                                                       |  3784 |  3.808 | 367.000 |   97.030 | 0.918 | Capital region; economic and political center |
+| [[Regions-Greek/Macedonia~Central/|Central Macedonia]]                                                            |  1778 | 18.811 |  50.500 |   28.418 | 0.872 | Second most populous; includes Thessaloniki   |
+| [[Regions-Greek/Thessaly/|Thessaly]]                                                                     |   678 | 14.037 |   7.240 |   10.661 | 0.880 | Agricultural hub; mountainous terrain         |
+| [[Regions-Greek/Crete/|Crete]]                                        |   622 |  8.336 |   6.430 |   10.331 | 0.882 | Largest island; tourism and agriculture       |
+| [[Regions-Greek/Greece~West/|Western Greece]]                         |   640 | 11.350 |   5.820 |    9.093 | 0.864 | Diverse economy; includes Patras              |
+| [[Regions-Greek/Peloponnese/|Peloponnese]]                            |   531 | 15.490 |   5.170 |    9.729 | 0.871 | Historical significance; agriculture          |
+| [[Regions-Greek/Greece~Central/|Central Greece]]                      |   505 | 15.549 |   5.800 |   11.475 | 0.876 | Rich in natural resources; includes Delphi    |
+| [[Regions-Greek/Macedonia~East-Thrace/|Eastern Macedonia and Thrace]] |   561 | 14.157 |   4.560 |    8.117 | 0.862 | Border region; diverse cultural heritage      |
+| [[Regions-Greek/Aegean~South/|South Aegean]]                          |   327 |  5.286 |   2.210 |    6.737 | 0.868 | Island region; tourism-driven economy         |
+| [[Regions-Greek/Epirus/|Epirus]]                                      |   321 |  9.203 |   1.420 |    4.432 | 0.878 | Mountainous; known for natural beauty         |
+| [[Regions-Greek/Macedonia~West/|Western Macedonia]]                   |   247 |  9.451 |   1.130 |    4.552 | 0.885 | Energy production; mountainous landscape      |
+| [[Regions-Greek/Aegean~North/|North Aegean]]                          |   201 |  3.836 |   0.544 |    2.704 | 0.870 | Island region; challenges in connectivity     |
+| [[Regions-Greek/Ionian_Islands/|Ionian Islands]]                      |   200 |  2.307 |   0.671 |    3.343 | 0.872 | Island region; tourism and agriculture        |
 
 
 ## #has_/text_of_/abstract 
